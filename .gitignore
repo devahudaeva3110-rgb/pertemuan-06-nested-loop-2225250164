@@ -1,0 +1,17 @@
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Folder lingkungan virtual (jika ada)
+.venv/
+venv/
+env/
+
+# Folder konfigurasi VS Code lokal
+.vscode/
+
+# File sampah sistem operasi
+.DS_Store
+Thumbs.db
